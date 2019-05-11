@@ -3457,10 +3457,11 @@ class userquery extends CBCategory{
 			  'email' => array(
 								  'title'=> lang('email'),
 								  'type'=> "textfield",
-								  'placehoder'=>"Email",
+								  'placehoder'=> '[*'.lang('optional').'] Email',
 								  'name'=> "email",
 								  'id'=> "email",
-								  'value'=> $email,
+									'value'=> $email,
+									'hint_2'=> '* Only used for password recovery if provided',
 								  'db_field'=>'email',
 								  'required'=>'yes',
 								  'syntax_type'=> 'email',
@@ -3501,7 +3502,8 @@ class userquery extends CBCategory{
 							 'id' => 'dob',
 							 'anchor_after' => 'date_picker',
 							 'value'=> $dob,
-	                         'validate_function' => 'verify_age',
+													 'validate_function' => 'verify_age',
+								'hint_1' => lang('user_date_of_birth'),
 							 'db_field'=>'dob',
 							 'required'=>'yes',
 	                         'invalid_err'=>lang('You must be atleast '.config('min_age_reg').' to register'),
@@ -3530,18 +3532,19 @@ class userquery extends CBCategory{
 								'required'=>'yes',
 								),
 							 						 					 
-			  'cat'		=> array('title'=> lang('Category'),
-								 'type'=> 'dropdown',
-								 'name'=> 'category',
-								 'id'=> 'category',
-								 'value'=> array('category', $default['category']),
-								 'db_field'=>'category',
-								 'checked'=> $default['category'],
-								 'required'=>'yes',
-								 'invalid_err'=>lang("Please select your category"),
-								 'display_function' => 'convert_to_categories',
-								 'category_type'=>'user',
-								 )
+			  'cat'		=> array(
+								'title'=> lang('Category'),
+								'type'=> 'dropdown',
+								'name'=> 'category',
+								'id'=> 'category',
+								'value'=> array('category', $default['category']),
+								'db_field'=>'category',
+								'checked'=> $default['category'],
+								'required'=>'yes',
+								'invalid_err'=>lang("Please select your category"),
+								'display_function' => 'convert_to_categories',
+								'category_type'=>'user',
+								)
 			  );
 
 

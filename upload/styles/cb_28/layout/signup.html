@@ -1,5 +1,5 @@
 {$required_fields=$userquery->load_signup_fields()|@array_filter}
-{$cutom_fields=$userquery->custom_signup_fields}
+{$custom_fields=$userquery->custom_signup_fields}
 {if $mode == 'signup_success'}
 	<div class="simple_container">
 		{if $udetails.usr_status !='Ok'}
@@ -68,11 +68,17 @@
 					<form name="signup_form" id="signup_form" method="post" action="{$baseurl}/signup.php"  class="user-form custom-elements">
 						<h2>Signup!</h2>
 						{foreach from=$required_fields item=field}
+							{$field.parent_class='clearfix hidden'}
 							{if $field.type!='checkbox' && $field.type!='radiobutton'}
 								{$field.class='form-control'}
+								{$field.parent_class='clearfix'}
 							{/if}
 
-							<div class="form-group clearfix">
+							{if $field.type=='dropdown' || $field.name=='cpassword'}
+								{$field.parent_class='clearfix hidden'}
+							{/if}
+
+							<div class="form-group {$field.parent_class}">
 								{*<label for="{$field.id}">{$field.title}</label>*}
 								{if $field.type=='radiobutton'}
 									{$field.label_class="radio-inline"}
@@ -362,7 +368,7 @@
 		email = emailSect.val(),
 		passwordSect = $('#password'),
 		password = passwordSect.val(),
-		cpasswordSect = $('#cpassword'),
+		cpasswordSect = $('#password'),
 		cpassword = cpasswordSect.val();
 		gotNums = username.match(/\d+/g);
 		var goodToGo = true;
@@ -387,8 +393,8 @@
 		} */
 
 		if (email.length == 0) {
-			addErrClass(emailSect, errors["empty_email"]);
-			goodToGo = false;
+			// addErrClass(emailSect, errors["empty_email"]);
+			// goodToGo = false;
 		} else if (!isValidEmail(email)) {
 			addErrClass(emailSect, errors["invalid_email"]);
 			goodToGo = false;

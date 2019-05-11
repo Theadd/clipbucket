@@ -41,8 +41,9 @@
 			$form_data = $_POST;
 			$signup_data = $form_data;
 			$signup_data['password'] = mysql_clean(clean($signup_data['password']));
-			$signup_data['cpassword'] = mysql_clean(clean($signup_data['cpassword']));
-			$signup_data['email'] = mysql_clean($signup_data['email']);
+			$signup_data['cpassword'] = mysql_clean(clean($signup_data['password']));
+			$strip_username = preg_replace('/[^a-zA-Z0-9\.\-_]+/u', '', $signup_data['username']);
+			$signup_data['email'] = mysql_clean(empty($signup_data['email']) ? $strip_username.'@nowhere.null' : $signup_data['email']);
 			$signup = $userquery->signup_user($signup_data,true);
 
 			// checking if user signup was successful
