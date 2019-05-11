@@ -1,0 +1,637 @@
+
+[DONE] 1 / 1509 [0 %] Translated phrase : Please enter a name for the Advertisment
+[DONE] 2 / 1509 [0 %] Translated phrase : Error : Please enter a code for the Advertisement
+[DONE] 3 / 1509 [0 %] Translated phrase : Advertisement does not exist
+[DONE] 4 / 1509 [0 %] Translated phrase : Error : Advertisement with this name already exist
+[DONE] 5 / 1509 [0 %] Translated phrase : Advertisment was added succesfully
+[DONE] 6 / 1509 [0 %] Translated phrase : Ad Has Been 
+[DONE] 7 / 1509 [0 %] Translated phrase : Advertisment has been Updated
+[DONE] 8 / 1509 [0 %] Translated phrase : Advertisement has been Deleted
+[DONE] 9 / 1509 [0 %] Translated phrase : Deactivated
+[DONE] 10 / 1509 [0 %] Translated phrase : Activated
+[DONE] 11 / 1509 [0 %] Translated phrase : Placement has been Removed
+[DONE] 12 / 1509 [0 %] Translated phrase : Placement already exists
+[DONE] 13 / 1509 [0 %] Translated phrase : Please Enter a name for the Placement
+[DONE] 14 / 1509 [0 %] Translated phrase : Please Enter a Code for the Placement
+[DONE] 15 / 1509 [0 %] Translated phrase : Placement has been Added
+[DONE] 16 / 1509 [1 %] Translated phrase : Please Upload JPEG, GIF or PNG image only
+[DONE] 17 / 1509 [1 %] Translated phrase : Category doesn’t exist
+[DONE] 18 / 1509 [1 %] Translated phrase : Category has been added successfully
+[DONE] 19 / 1509 [1 %] Translated phrase : Category has been updated
+[DONE] 20 / 1509 [1 %] Translated phrase : Group Doesn’t Exist
+[DONE] 21 / 1509 [1 %] Translated phrase : Group has been set as featured
+[DONE] 22 / 1509 [1 %] Translated phrase : Selected Groups Have Been Removed From The Featured List
+[DONE] 23 / 1509 [1 %] Translated phrase : Selected Groups Have Been Activated
+[DONE] 24 / 1509 [1 %] Translated phrase : Selected Groups Have Been Dectivated
+[DONE] 25 / 1509 [1 %] Translated phrase : Group has been deleted
+[DONE] 26 / 1509 [1 %] Translated phrase : Video Has Been Moved Up
+[DONE] 27 / 1509 [1 %] Translated phrase : Video Has Been Moved Down
+[DONE] 28 / 1509 [1 %] Translated phrase : Plugin has been installed
+[DONE] 29 / 1509 [1 %] Translated phrase : No file was found
+[DONE] 30 / 1509 [1 %] Translated phrase : Unknown plugin details found
+[DONE] 31 / 1509 [2 %] Translated phrase : Plugin already installed
+[DONE] 32 / 1509 [2 %] Translated phrase : Plugin is not installed
+[DONE] 33 / 1509 [2 %] Translated phrase : Please enter group name
+[DONE] 34 / 1509 [2 %] Translated phrase : Group Name Already Exists
+[DONE] 35 / 1509 [2 %] Translated phrase : Please Enter A Little Description For The Group
+[DONE] 36 / 1509 [2 %] Translated phrase : Please Enter Tags For The Group
+[DONE] 37 / 1509 [2 %] Translated phrase : Please enter valid url for the Group
+[DONE] 38 / 1509 [2 %] Translated phrase : Please enter Valid URL name
+[DONE] 39 / 1509 [2 %] Translated phrase : Group URL Already Exists, Please Choose a Different URL
+[DONE] 40 / 1509 [2 %] Translated phrase : Please enter a topic to add
+[DONE] 41 / 1509 [2 %] Translated phrase : You must enter a comment
+[DONE] 42 / 1509 [2 %] Translated phrase : You have already joined this group
+[DONE] 43 / 1509 [2 %] Translated phrase : This Group Is Private, Please Login to View this Group
+[DONE] 44 / 1509 [2 %] Translated phrase : This Group Is Inactive, Please Contact Administrator for the problem
+[DONE] 45 / 1509 [2 %] Translated phrase : You Have Not Joined This Group Yet
+[DONE] 46 / 1509 [3 %] Translated phrase : Sorry, Group Doesn’t Exist
+[DONE] 47 / 1509 [3 %] Translated phrase : This Topic is not approved by the Group Owner
+[DONE] 48 / 1509 [3 %] Translated phrase : Please Select A Category For Your group
+[DONE] 49 / 1509 [3 %] Translated phrase : Please enter a topic to add
+[DONE] 50 / 1509 [3 %] Translated phrase : Your Topic Requires Approval From The Owner Of This Group
+[DONE] 51 / 1509 [3 %] Translated phrase : Topic has been added
+[DONE] 52 / 1509 [3 %] Translated phrase : Comment has been added
+[DONE] 53 / 1509 [3 %] Translated phrase : Videos Deleted
+[DONE] 54 / 1509 [3 %] Translated phrase : Videos Added Successfully
+[DONE] 55 / 1509 [3 %] Translated phrase : Videos Have Been Approved
+[DONE] 56 / 1509 [3 %] Translated phrase : Member Has Been Deleted
+[DONE] 57 / 1509 [3 %] Translated phrase : Member Has Been Approved
+[DONE] 58 / 1509 [3 %] Translated phrase : Your Invitation Has Been Sent
+[DONE] 59 / 1509 [3 %] Translated phrase : Topic has been deleted
+[DONE] 60 / 1509 [3 %] Translated phrase : Topic Has Been Approved
+[DONE] 61 / 1509 [4 %] Translated phrase : Group has been removed from featured list
+[DONE] 62 / 1509 [4 %] Translated phrase : Has Invited You To Join 
+[DONE] 63 / 1509 [4 %] Translated phrase : Group has been activated
+[DONE] 64 / 1509 [4 %] Translated phrase : Group has been deactivated
+[DONE] 65 / 1509 [4 %] Translated phrase : Post Has Been Deleted
+[DONE] 66 / 1509 [4 %] Translated phrase : Group has been updated
+[DONE] 67 / 1509 [4 %] Translated phrase : Only Owner Can Add Videos To This Group
+[DONE] 68 / 1509 [4 %] Translated phrase : You are not owner of this group
+[DONE] 69 / 1509 [4 %] Translated phrase : You are the owner of this group. You cannot leave your group.
+[DONE] 70 / 1509 [4 %] Translated phrase : This group is private, you need invitiation from its owner in order to join
+[DONE] 71 / 1509 [4 %] Translated phrase : Selected Groups Have Been Removed From Your Account
+[DONE] 72 / 1509 [4 %] Translated phrase : Sorry, Topic Doesn’t Exist
+[DONE] 73 / 1509 [4 %] Translated phrase : Groups - Topic - 
+[DONE] 74 / 1509 [4 %] Translated phrase : - Add Video
+[DONE] 75 / 1509 [4 %] Translated phrase : You Cannot Set SuperAdmin Username as Blank
+[DONE] 76 / 1509 [5 %] Translated phrase : Confirm Password Doesn’t Match
+[DONE] 77 / 1509 [5 %] Translated phrase : Old password is incorrect
+[DONE] 78 / 1509 [5 %] Translated phrase : Please Provide A Valid Email Address
+[DONE] 79 / 1509 [5 %] Translated phrase : Confirm password is incorrect
+[DONE] 80 / 1509 [5 %] Translated phrase : Password is Incorrect
+[DONE] 81 / 1509 [5 %] Translated phrase : You Must Login First To Comment
+[DONE] 82 / 1509 [5 %] Translated phrase : Please Type Something In the Comment Box
+[DONE] 83 / 1509 [5 %] Translated phrase : You cannot comment on your video
+[DONE] 84 / 1509 [5 %] Translated phrase : You Have Already Posted a Comment on this channel.
+[DONE] 85 / 1509 [5 %] Translated phrase : Comment Has Been Added
+[DONE] 86 / 1509 [5 %] Translated phrase : Comment Has Been Deleted
+[DONE] 87 / 1509 [5 %] Translated phrase : An Error Occured While deleting a Comment
+[DONE] 88 / 1509 [5 %] Translated phrase : You Cannot Add Yourself as a Contact
+[DONE] 89 / 1509 [5 %] Translated phrase : You Have Already Added This User To Your Contact List
+[DONE] 90 / 1509 [5 %] Translated phrase : You are already subscribed to %s
+[DONE] 91 / 1509 [6 %] Translated phrase : User Doesnt Exist
+[DONE] 92 / 1509 [6 %] Translated phrase : Verification code you entered was wrong
+[DONE] 93 / 1509 [6 %] Translated phrase : Sorry, No User Exists With This Email
+[DONE] 94 / 1509 [6 %] Translated phrase : Sorry , User Doesn't Exist
+[DONE] 95 / 1509 [6 %] Translated phrase : Username is empty
+[DONE] 96 / 1509 [6 %] Translated phrase : Username already exists
+[DONE] 97 / 1509 [6 %] Translated phrase : Password Is Empty
+[DONE] 98 / 1509 [6 %] Translated phrase : Email is Empty
+[DONE] 99 / 1509 [6 %] Translated phrase : Please Enter A Valid Email Address
+[DONE] 100 / 1509 [6 %] Translated phrase : Email Address Is Already In Use
+[DONE] 101 / 1509 [6 %] Translated phrase : Postal Codes Only Contain Numbers
+[DONE] 102 / 1509 [6 %] Translated phrase : First Name Is Empty
+[DONE] 103 / 1509 [6 %] Translated phrase : Last Name Is Empty
+[DONE] 104 / 1509 [6 %] Translated phrase : Username Contains Unallowed Characters
+[DONE] 105 / 1509 [6 %] Translated phrase : Passwords MisMatched
+[DONE] 106 / 1509 [7 %] Translated phrase : Please Select Date Of Birth
+[DONE] 107 / 1509 [7 %] Translated phrase : Sorry, you need to agree to the terms of use and privacy policy to create an account
+[DONE] 108 / 1509 [7 %] Translated phrase : Sorry, Registrations Are Temporarily Not Allowed, Please Try Again Later
+[DONE] 109 / 1509 [7 %] Translated phrase : User account is banned, please contact website administrator
+[DONE] 110 / 1509 [7 %] Translated phrase : Username and Password Didn’t Match
+[DONE] 111 / 1509 [7 %] Translated phrase : Super Admin Has Been Updated
+[DONE] 112 / 1509 [7 %] Translated phrase : Your Password Has Been Changed
+[DONE] 113 / 1509 [7 %] Translated phrase : This User Has Been Added To Your Contact List
+[DONE] 114 / 1509 [7 %] Translated phrase : You are now subsribed to %s
+[DONE] 115 / 1509 [7 %] Translated phrase : We Have Sent you an Email containing Your Username, Please Check It
+[DONE] 116 / 1509 [7 %] Translated phrase : An Email Has Been Sent To You. Please Follow the Instructions there to Reset Your Password
+[DONE] 117 / 1509 [7 %] Translated phrase : Password has been changed successfully
+[DONE] 118 / 1509 [7 %] Translated phrase : Email Settings Has Been Updated
+[DONE] 119 / 1509 [7 %] Translated phrase : User has been deleted
+[DONE] 120 / 1509 [7 %] Translated phrase : Selected Users Have Been Deleted
+[DONE] 121 / 1509 [8 %] Translated phrase : User has been activated
+[DONE] 122 / 1509 [8 %] Translated phrase : User has been deactivated
+[DONE] 123 / 1509 [8 %] Translated phrase : Selected Members Have Been Activated
+[DONE] 124 / 1509 [8 %] Translated phrase : Selected Members Have Been Deactivated
+[DONE] 125 / 1509 [8 %] Translated phrase : User Has Been Made a Featured Member
+[DONE] 126 / 1509 [8 %] Translated phrase : User Has Been Unfeatured
+[DONE] 127 / 1509 [8 %] Translated phrase : Selected Users Have Been Set As Featured
+[DONE] 128 / 1509 [8 %] Translated phrase : Selected Users Have Been Removed From The Featured List
+[DONE] 129 / 1509 [8 %] Translated phrase : User Has Been Banned
+[DONE] 130 / 1509 [8 %] Translated phrase : User Has Been Unbanned
+[DONE] 131 / 1509 [8 %] Translated phrase : Selected Members Have Been Banned
+[DONE] 132 / 1509 [8 %] Translated phrase : Selected Members Have Been Unbanned
+[DONE] 133 / 1509 [8 %] Translated phrase : Password Reset Confirmation
+[DONE] 134 / 1509 [8 %] Translated phrase : Dear User
+[DONE] 135 / 1509 [8 %] Translated phrase : You Requested A Password Reset, Follow The Link To Reset Your Password
+[DONE] 136 / 1509 [9 %] Translated phrase : Password Has Been Reset
+[DONE] 137 / 1509 [9 %] Translated phrase : You Requested A Password Reset, Here is your new password : 
+[DONE] 138 / 1509 [9 %] Translated phrase : You Requested to Recover Your Username, Here is your username: 
+[DONE] 139 / 1509 [9 %] Translated phrase : Username Recovery Email
+[DONE] 140 / 1509 [9 %] Translated phrase : User Has Been Added
+[DONE] 141 / 1509 [9 %] Translated phrase : User has been updated
+[DONE] 142 / 1509 [9 %] Translated phrase : Your account has been activated. Now you can login to your account and upload videos
+[DONE] 143 / 1509 [9 %] Translated phrase : This user is already activated
+[DONE] 144 / 1509 [9 %] Translated phrase : We have sent you an email containing your activation code, please check your mail box
+[DONE] 145 / 1509 [9 %] Translated phrase : Email Doesn’t Exist or a User With This Email is already Activated
+[DONE] 146 / 1509 [9 %] Translated phrase : No Message Was Selected To Delete
+[DONE] 147 / 1509 [9 %] Translated phrase : Selected Messages Have Been Deleted
+[DONE] 148 / 1509 [9 %] Translated phrase : Profile has been updated
+[DONE] 149 / 1509 [9 %] Translated phrase : no answer
+[DONE] 150 / 1509 [9 %] Translated phrase : Elementary
+[DONE] 151 / 1509 [10 %] Translated phrase : High School
+[DONE] 152 / 1509 [10 %] Translated phrase : Some College
+[DONE] 153 / 1509 [10 %] Translated phrase : Associates Degree
+[DONE] 154 / 1509 [10 %] Translated phrase : Bachelor’s Degree
+[DONE] 155 / 1509 [10 %] Translated phrase : Master’s Degree
+[DONE] 156 / 1509 [10 %] Translated phrase : Ph.D.
+[DONE] 157 / 1509 [10 %] Translated phrase : Postdoctoral
+[DONE] 158 / 1509 [10 %] Translated phrase : Single
+[DONE] 159 / 1509 [10 %] Translated phrase : Married
+[DONE] 160 / 1509 [10 %] Translated phrase : Comitted
+[DONE] 161 / 1509 [10 %] Translated phrase : Open Marriage
+[DONE] 162 / 1509 [10 %] Translated phrase : Open Relationship
+[DONE] 163 / 1509 [10 %] Translated phrase : Compose New Message
+[DONE] 164 / 1509 [10 %] Translated phrase : Forgot Something? Find it now !
+[DONE] 165 / 1509 [10 %] Translated phrase :  - Inbox
+[DONE] 166 / 1509 [11 %] Translated phrase :  - Sent Folder
+[DONE] 167 / 1509 [11 %] Translated phrase : ’s Contact List
+[DONE] 168 / 1509 [11 %] Translated phrase : %s’s Favorite Videos
+[DONE] 169 / 1509 [11 %] Translated phrase : ’s Channel
+[DONE] 170 / 1509 [11 %] Translated phrase : Edit Video - 
+[DONE] 171 / 1509 [11 %] Translated phrase : Please Enter Video Title
+[DONE] 172 / 1509 [11 %] Translated phrase : Please Enter Video Description
+[DONE] 173 / 1509 [11 %] Translated phrase : Please Enter Tags For The Video
+[DONE] 174 / 1509 [11 %] Translated phrase : Please Choose Atleast 1 Category
+[DONE] 175 / 1509 [11 %] Translated phrase : You Can Only Choose Up to 3 Categories
+[DONE] 176 / 1509 [11 %] Translated phrase :  and therefore this message is sent to you automatically that 
+[DONE] 177 / 1509 [11 %] Translated phrase : Has Uploaded New Video
+[DONE] 178 / 1509 [11 %] Translated phrase : Selected Videos Have Been Deleted
+[DONE] 179 / 1509 [11 %] Translated phrase : Please Don't Try To Cheat
+[DONE] 180 / 1509 [11 %] Translated phrase : Please Don't Try To Cross Your Limits
+[DONE] 181 / 1509 [11 %] Translated phrase : Comment Has Been Deleted
+[DONE] 182 / 1509 [12 %] Translated phrase : Video Is Inactive - Please Contact Admin For Details
+[DONE] 183 / 1509 [12 %] Translated phrase : Video Is Being Processed - Please Contact Administrator for further details
+[DONE] 184 / 1509 [12 %] Translated phrase : Uploading Is Not Allowed By Website Owner
+[DONE] 185 / 1509 [12 %] Translated phrase : Video Downloading Is Not Allowed
+[DONE] 186 / 1509 [12 %] Translated phrase : You Are Not Video Owner
+[DONE] 187 / 1509 [12 %] Translated phrase : Embed Code Was Wrong
+[DONE] 188 / 1509 [12 %] Translated phrase : Wrong Value Entered For Seconds Field
+[DONE] 189 / 1509 [12 %] Translated phrase : Wrong Value Entered For Minutes Field
+[DONE] 190 / 1509 [12 %] Translated phrase : Error In Uploading Thumb
+[DONE] 191 / 1509 [12 %] Translated phrase : Sorry, An Error Occured
+[DONE] 192 / 1509 [12 %] Translated phrase : Category has been deleted
+[DONE] 193 / 1509 [12 %] Translated phrase : Video has been deleted
+[DONE] 194 / 1509 [12 %] Translated phrase : Video has been marked as “Featured Video”
+[DONE] 195 / 1509 [12 %] Translated phrase : Video has been removed from “Featured Videos”
+[DONE] 196 / 1509 [12 %] Translated phrase : Video has been activated
+[DONE] 197 / 1509 [13 %] Translated phrase : Vidoe has been deactivated
+[DONE] 198 / 1509 [13 %] Translated phrase : Video details have been updated
+[DONE] 199 / 1509 [13 %] Translated phrase : You Must Login Before Postings Comments
+[DONE] 200 / 1509 [13 %] Translated phrase : Please Type Something In The Comment Box
+[DONE] 201 / 1509 [13 %] Translated phrase : You Cannot Post a Comment on  Your Own Video
+[DONE] 202 / 1509 [13 %] Translated phrase : You Have Already Posted a Comment, Please Wait for the others.
+[DONE] 203 / 1509 [13 %] Translated phrase : You Have Already Replied To That a Comment, Please Wait for the others.
+[DONE] 204 / 1509 [13 %] Translated phrase : You Cannot Post a Reply To Yourself
+[DONE] 205 / 1509 [13 %] Translated phrase : Comment Has Been Added
+[DONE] 206 / 1509 [13 %] Translated phrase : Please login to rate comment
+[DONE] 207 / 1509 [13 %] Translated phrase : You have already rated this comment
+[DONE] 208 / 1509 [13 %] Translated phrase : This Video is Already Added To Your Favorites
+[DONE] 209 / 1509 [13 %] Translated phrase : This Video Has Been Added To Your Favorites
+[DONE] 210 / 1509 [13 %] Translated phrase : You Have Already Flagged This Video
+[DONE] 211 / 1509 [13 %] Translated phrase : This Video Has Been Flagged As Inappropriate
+[DONE] 212 / 1509 [14 %] Translated phrase : Flag(s) Has/Have Been Removed
+[DONE] 213 / 1509 [14 %] Translated phrase : Please Enter a Username or Select any User to Send Message
+[DONE] 214 / 1509 [14 %] Translated phrase : Invalid Username
+[DONE] 215 / 1509 [14 %] Translated phrase : Message subject was empty
+[DONE] 216 / 1509 [14 %] Translated phrase : Please Type Something In Message Box
+[DONE] 217 / 1509 [14 %] Translated phrase : Sent You A Message
+[DONE] 218 / 1509 [14 %] Translated phrase : Sent You A Private Message on 
+[DONE] 219 / 1509 [14 %] Translated phrase : Please Click here To View Your Inbox
+[DONE] 220 / 1509 [14 %] Translated phrase : Click Here To Login
+[DONE] 221 / 1509 [14 %] Translated phrase : Email Notification
+[DONE] 222 / 1509 [14 %] Translated phrase : Message Has Been Sent To 
+[DONE] 223 / 1509 [14 %] Translated phrase : Message Has Been Delete From Inbox 
+[DONE] 224 / 1509 [14 %] Translated phrase : Message Has Been Delete From Sent Folder
+[DONE] 225 / 1509 [14 %] Translated phrase : Message Doesn't Exist
+[DONE] 226 / 1509 [14 %] Translated phrase : Video does not exist
+[DONE] 227 / 1509 [15 %] Translated phrase : You have been unsubscribed sucessfully
+[DONE] 228 / 1509 [15 %] Translated phrase : Subscription Does Not Exist
+[DONE] 229 / 1509 [15 %] Translated phrase : Video Has Been Removed From Favourites
+[DONE] 230 / 1509 [15 %] Translated phrase : This Video Is Not In Your Favourites List
+[DONE] 231 / 1509 [15 %] Translated phrase : Contact Has Been Deleted
+[DONE] 232 / 1509 [15 %] Translated phrase : Sorry, This Contact Is Not In Your Contact List
+[DONE] 233 / 1509 [15 %] Translated phrase : Video Has Been Added To Editor’s Pick
+[DONE] 234 / 1509 [15 %] Translated phrase : Video Is Already In The Editor’s Pick
+[DONE] 235 / 1509 [15 %] Translated phrase : You Have Already Picked 10 Videos Please Delete Alteast One to Add More
+[DONE] 236 / 1509 [15 %] Translated phrase : Video Has Been Removed From Editor’s Pick
+[DONE] 237 / 1509 [15 %] Translated phrase : Sorry, Video Doesn't Exist
+[DONE] 238 / 1509 [15 %] Translated phrase : Please Upload Gif Image Only
+[DONE] 239 / 1509 [15 %] Translated phrase : Please Upload Png Image Only
+[DONE] 240 / 1509 [15 %] Translated phrase : Please Upload Jpg Image Only
+[DONE] 241 / 1509 [15 %] Translated phrase : Logo Has Been Changed. Please Clear Cache If You Are Not Able To See the Changed Logo
+[DONE] 242 / 1509 [16 %] Translated phrase : Forgot Username | Password
+[DONE] 243 / 1509 [16 %] Translated phrase : Join Now
+[DONE] 244 / 1509 [16 %] Translated phrase : My Account
+[DONE] 245 / 1509 [16 %] Translated phrase : Manage Videos
+[DONE] 246 / 1509 [16 %] Translated phrase : View My Channel
+[DONE] 247 / 1509 [16 %] Translated phrase : My Inbox
+[DONE] 248 / 1509 [16 %] Translated phrase : Welcome
+[DONE] 249 / 1509 [16 %] Translated phrase : Top Members 
+[DONE] 250 / 1509 [16 %] Translated phrase : Videos
+[DONE] 251 / 1509 [16 %] Translated phrase : Sign Up Now !
+[DONE] 252 / 1509 [16 %] Translated phrase : My Videos
+[DONE] 253 / 1509 [16 %] Translated phrase : My Channel
+[DONE] 254 / 1509 [16 %] Translated phrase : My Subscriptions
+[DONE] 255 / 1509 [16 %] Translated phrase : User Does Not Have Any Contact
+[DONE] 256 / 1509 [16 %] Translated phrase : User Does Not Have Any Favourite Video
+[DONE] 257 / 1509 [17 %] Translated phrase : User Has No Video Comments
+[DONE] 258 / 1509 [17 %] Translated phrase : View All Contacts of
+[DONE] 259 / 1509 [17 %] Translated phrase : View All Favourite Videos Of
+[DONE] 260 / 1509 [17 %] Translated phrase : You Have Been Successfully Logged In.
+[DONE] 261 / 1509 [17 %] Translated phrase : You Have Been Successfully Logged Out.
+[DONE] 262 / 1509 [17 %] Translated phrase : You are now Redirecting .
+[DONE] 263 / 1509 [17 %] Translated phrase : if your are not redirecting
+[DONE] 264 / 1509 [17 %] Translated phrase : Manage Contacts 
+[DONE] 265 / 1509 [17 %] Translated phrase : Send Message
+[DONE] 266 / 1509 [17 %] Translated phrase : Manage Favorites 
+[DONE] 267 / 1509 [17 %] Translated phrase : Manage Subscriptions
+[DONE] 268 / 1509 [17 %] Translated phrase : Subscribe to %s’s channel
+[DONE] 269 / 1509 [17 %] Translated phrase : Total Subscribtions
+[DONE] 270 / 1509 [17 %] Translated phrase : Total Videos
+[DONE] 271 / 1509 [17 %] Translated phrase : Date Subscribed
+[DONE] 272 / 1509 [18 %] Translated phrase : Search Results
+[DONE] 273 / 1509 [18 %] Translated phrase : Advanced Search
+[DONE] 274 / 1509 [18 %] Translated phrase : Search Results In
+[DONE] 275 / 1509 [18 %] Translated phrase : Recently Viewed...
+[DONE] 276 / 1509 [18 %] Translated phrase : Recent Additions
+[DONE] 277 / 1509 [18 %] Translated phrase : Most Viewed
+[DONE] 278 / 1509 [18 %] Translated phrase : Recently Added
+[DONE] 279 / 1509 [18 %] Translated phrase : Featured
+[DONE] 280 / 1509 [18 %] Translated phrase : Highest Rated
+[DONE] 281 / 1509 [18 %] Translated phrase : Most Discussed
+[DONE] 282 / 1509 [18 %] Translated phrase : Style Change
+[DONE] 283 / 1509 [18 %] Translated phrase : RSS Feed for Most Recent Videos
+[DONE] 284 / 1509 [18 %] Translated phrase : RSS Feed for Featured Videos
+[DONE] 285 / 1509 [18 %] Translated phrase : RSS Feed for Most Popular Videos
+[DONE] 286 / 1509 [18 %] Translated phrase : en
+[DONE] 287 / 1509 [19 %] Translated phrase : Registration Closed
+[DONE] 288 / 1509 [19 %] Translated phrase : Registration for
+[DONE] 289 / 1509 [19 %] Translated phrase : is currently closed
+[DONE] 290 / 1509 [19 %] Translated phrase : About Us
+[DONE] 291 / 1509 [19 %] Translated phrase : Account
+[DONE] 292 / 1509 [19 %] Translated phrase : Added
+[DONE] 293 / 1509 [19 %] Translated phrase : Advertisements
+[DONE] 294 / 1509 [19 %] Translated phrase : All
+[DONE] 295 / 1509 [19 %] Translated phrase : Active
+[DONE] 296 / 1509 [19 %] Translated phrase : Activate
+[DONE] 297 / 1509 [19 %] Translated phrase : Age
+[DONE] 298 / 1509 [19 %] Translated phrase : Approve
+[DONE] 299 / 1509 [19 %] Translated phrase : Approved
+[DONE] 300 / 1509 [19 %] Translated phrase : Approval
+[DONE] 301 / 1509 [19 %] Translated phrase : Books
+[DONE] 302 / 1509 [20 %] Translated phrase : Browse
+[DONE] 303 / 1509 [20 %] Translated phrase : by
+[DONE] 304 / 1509 [20 %] Translated phrase : Cancel
+[DONE] 305 / 1509 [20 %] Translated phrase : Categories
+[DONE] 306 / 1509 [20 %] Translated phrase : Category
+[DONE] 307 / 1509 [20 %] Translated phrase : channels
+[DONE] 308 / 1509 [20 %] Translated phrase : Check All
+[DONE] 309 / 1509 [20 %] Translated phrase : Click Here
+[DONE] 310 / 1509 [20 %] Translated phrase : Comments
+[DONE] 311 / 1509 [20 %] Translated phrase : Community
+[DONE] 312 / 1509 [20 %] Translated phrase : Companies
+[DONE] 313 / 1509 [20 %] Translated phrase : Contacts
+[DONE] 314 / 1509 [20 %] Translated phrase : Contact Us
+[DONE] 315 / 1509 [20 %] Translated phrase : Country
+[DONE] 316 / 1509 [20 %] Translated phrase : Created
+[DONE] 317 / 1509 [21 %] Translated phrase : Date
+[DONE] 318 / 1509 [21 %] Translated phrase : Date Added
+[DONE] 319 / 1509 [21 %] Translated phrase : Date Joined
+[DONE] 320 / 1509 [21 %] Translated phrase : Dear
+[DONE] 321 / 1509 [21 %] Translated phrase : Delete
+[DONE] 322 / 1509 [21 %] Translated phrase : Delete Selected
+[DONE] 323 / 1509 [21 %] Translated phrase : Description:
+[DONE] 324 / 1509 [21 %] Translated phrase : Duration
+[DONE] 325 / 1509 [21 %] Translated phrase : Education
+[DONE] 326 / 1509 [21 %] Translated phrase : email
+[DONE] 327 / 1509 [21 %] Translated phrase : Embed
+[DONE] 328 / 1509 [21 %] Translated phrase : Embed Code
+[DONE] 329 / 1509 [21 %] Translated phrase : Favorite
+[DONE] 330 / 1509 [21 %] Translated phrase : Favorited
+[DONE] 331 / 1509 [21 %] Translated phrase : Favorites
+[DONE] 332 / 1509 [22 %] Translated phrase : Female
+[DONE] 333 / 1509 [22 %] Translated phrase : Filter
+[DONE] 334 / 1509 [22 %] Translated phrase : Forgot
+[DONE] 335 / 1509 [22 %] Translated phrase : Friends
+[DONE] 336 / 1509 [22 %] Translated phrase : From
+[DONE] 337 / 1509 [22 %] Translated phrase : Gender
+[DONE] 338 / 1509 [22 %] Translated phrase : Groups
+[DONE] 339 / 1509 [22 %] Translated phrase : Hello
+[DONE] 340 / 1509 [22 %] Translated phrase : Help
+[DONE] 341 / 1509 [22 %] Translated phrase : Hi
+[DONE] 342 / 1509 [22 %] Translated phrase : Hobbies
+[DONE] 343 / 1509 [22 %] Translated phrase : Home
+[DONE] 344 / 1509 [22 %] Translated phrase : Inbox
+[DONE] 345 / 1509 [22 %] Translated phrase : Interests
+[DONE] 346 / 1509 [22 %] Translated phrase : Join Now
+[DONE] 347 / 1509 [22 %] Translated phrase : Joined
+[DONE] 348 / 1509 [23 %] Translated phrase : Join
+[DONE] 349 / 1509 [23 %] Translated phrase : Keywords
+[DONE] 350 / 1509 [23 %] Translated phrase : Latest
+[DONE] 351 / 1509 [23 %] Translated phrase : Leave
+[DONE] 352 / 1509 [23 %] Translated phrase : Location
+[DONE] 353 / 1509 [23 %] Translated phrase : Login
+[DONE] 354 / 1509 [23 %] Translated phrase : Logout
+[DONE] 355 / 1509 [23 %] Translated phrase : Male
+[DONE] 356 / 1509 [23 %] Translated phrase : Members
+[DONE] 357 / 1509 [23 %] Translated phrase : Messages
+[DONE] 358 / 1509 [23 %] Translated phrase : Message
+[DONE] 359 / 1509 [23 %] Translated phrase : minutes
+[DONE] 360 / 1509 [23 %] Translated phrase : Most Members
+[DONE] 361 / 1509 [23 %] Translated phrase : Most Recent
+[DONE] 362 / 1509 [23 %] Translated phrase : Most Videos
+[DONE] 363 / 1509 [24 %] Translated phrase : Music
+[DONE] 364 / 1509 [24 %] Translated phrase : My Account
+[DONE] 365 / 1509 [24 %] Translated phrase : Next
+[DONE] 366 / 1509 [24 %] Translated phrase : No
+[DONE] 367 / 1509 [24 %] Translated phrase : No User Exists
+[DONE] 368 / 1509 [24 %] Translated phrase : No Video Exists
+[DONE] 369 / 1509 [24 %] Translated phrase : Occupations
+[DONE] 370 / 1509 [24 %] Translated phrase : optional
+[DONE] 371 / 1509 [24 %] Translated phrase : Owner
+[DONE] 372 / 1509 [24 %] Translated phrase : password
+[DONE] 373 / 1509 [24 %] Translated phrase : Please
+[DONE] 374 / 1509 [24 %] Translated phrase : Privacy
+[DONE] 375 / 1509 [24 %] Translated phrase : Privacy Policy
+[DONE] 376 / 1509 [24 %] Translated phrase : Random
+[DONE] 377 / 1509 [24 %] Translated phrase : Rate
+[DONE] 378 / 1509 [25 %] Translated phrase : Request
+[DONE] 379 / 1509 [25 %] Translated phrase : Related
+[DONE] 380 / 1509 [25 %] Translated phrase : Reply
+[DONE] 381 / 1509 [25 %] Translated phrase : Results
+[DONE] 382 / 1509 [25 %] Translated phrase : Relationship
+[DONE] 383 / 1509 [25 %] Translated phrase : seconds
+[DONE] 384 / 1509 [25 %] Translated phrase : Select
+[DONE] 385 / 1509 [25 %] Translated phrase : Send
+[DONE] 386 / 1509 [25 %] Translated phrase : Sent
+[DONE] 387 / 1509 [25 %] Translated phrase : Signup
+[DONE] 388 / 1509 [25 %] Translated phrase : Subject
+[DONE] 389 / 1509 [25 %] Translated phrase : Tags
+[DONE] 390 / 1509 [25 %] Translated phrase : Times
+[DONE] 391 / 1509 [25 %] Translated phrase : To
+[DONE] 392 / 1509 [25 %] Translated phrase : Type
+[DONE] 393 / 1509 [26 %] Translated phrase : Update
+[DONE] 394 / 1509 [26 %] Translated phrase : Upload
+[DONE] 395 / 1509 [26 %] Translated phrase : Url
+[DONE] 396 / 1509 [26 %] Translated phrase : Verification
+[DONE] 397 / 1509 [26 %] Translated phrase : Videos
+[DONE] 398 / 1509 [26 %] Translated phrase : Viewing
+[DONE] 399 / 1509 [26 %] Translated phrase : Welcome
+[DONE] 400 / 1509 [26 %] Translated phrase : Website
+[DONE] 401 / 1509 [26 %] Translated phrase : Yes
+[DONE] 402 / 1509 [26 %] Translated phrase : of
+[DONE] 403 / 1509 [26 %] Translated phrase : on
+[DONE] 404 / 1509 [26 %] Translated phrase : Previous
+[DONE] 405 / 1509 [26 %] Translated phrase : Rating
+[DONE] 406 / 1509 [26 %] Translated phrase : Ratings
+[DONE] 407 / 1509 [26 %] Translated phrase : Remote Upload
+[DONE] 408 / 1509 [27 %] Translated phrase : Remove
+[DONE] 409 / 1509 [27 %] Translated phrase : Search
+[DONE] 410 / 1509 [27 %] Translated phrase : Services
+[DONE] 411 / 1509 [27 %] Translated phrase : Show All
+[DONE] 412 / 1509 [27 %] Translated phrase : Sign Up
+[DONE] 413 / 1509 [27 %] Translated phrase : Sort
+[DONE] 414 / 1509 [27 %] Translated phrase : Subscriptions
+[DONE] 415 / 1509 [27 %] Translated phrase : Subscribers
+[DONE] 416 / 1509 [27 %] Translated phrase : Tags
+[DONE] 417 / 1509 [27 %] Translated phrase : time
+[DONE] 418 / 1509 [27 %] Translated phrase : Top
+[DONE] 419 / 1509 [27 %] Translated phrase : Terms of Use
+[DONE] 420 / 1509 [27 %] Translated phrase : Username
+[DONE] 421 / 1509 [27 %] Translated phrase : Views
+[DONE] 422 / 1509 [27 %] Translated phrase : Processing, Please Wait
+[DONE] 423 / 1509 [28 %] Translated phrase : Most Viewed
+[DONE] 424 / 1509 [28 %] Translated phrase : Most Comments
+[DONE] 425 / 1509 [28 %] Translated phrase : Group
+[DONE] 426 / 1509 [28 %] Translated phrase : You are not logged in or you do not have permission to access this page. This could be due to one of several reasons:
+[DONE] 427 / 1509 [28 %] Translated phrase : You are not logged in. Fill in the form below and try again.
+[DONE] 428 / 1509 [28 %] Translated phrase : You may not have sufficient privileges to access this page.
+[DONE] 429 / 1509 [28 %] Translated phrase : The site administrator may have disabled your account, or it may be awaiting activation.
+[DONE] 430 / 1509 [28 %] Translated phrase : Recover Password
+[DONE] 431 / 1509 [28 %] Translated phrase : Submit
+[DONE] 432 / 1509 [28 %] Translated phrase : Reset Fields
+[DONE] 433 / 1509 [28 %] Translated phrase : The administrator may have required you to register before you can view this page.
+[DONE] 434 / 1509 [28 %] Translated phrase : Language Change
+[DONE] 435 / 1509 [28 %] Translated phrase : Your language has been changed
+[DONE] 436 / 1509 [28 %] Translated phrase : Language
+[DONE] 437 / 1509 [28 %] Translated phrase : Click here to continue if you are not automatically redirected.
+[DONE] 438 / 1509 [29 %] Translated phrase : Your style has been changed
+[DONE] 439 / 1509 [29 %] Translated phrase : Style
+[DONE] 440 / 1509 [29 %] Translated phrase : Edit Video
+[DONE] 441 / 1509 [29 %] Translated phrase : Video Stills
+[DONE] 442 / 1509 [29 %] Translated phrase : Watch Video
+[DONE] 443 / 1509 [29 %] Translated phrase : Video Details
+[DONE] 444 / 1509 [29 %] Translated phrase : Title
+[DONE] 445 / 1509 [29 %] Translated phrase : Description
+[DONE] 446 / 1509 [29 %] Translated phrase : Video Category
+[DONE] 447 / 1509 [29 %] Translated phrase : You May Select Up To %s Categories
+[DONE] 448 / 1509 [29 %] Translated phrase : Tags are separated by commas ie Arslan Hassan, Awesome, ClipBucket
+[DONE] 449 / 1509 [29 %] Translated phrase : Broadcast Options
+[DONE] 450 / 1509 [29 %] Translated phrase : Public - Share your video with Everyone! (Recommended)
+[DONE] 451 / 1509 [29 %] Translated phrase : Private - Viewable by you and your friends only.
+[DONE] 452 / 1509 [29 %] Translated phrase : Date And Location
+[DONE] 453 / 1509 [30 %] Translated phrase : Date Recorded
+[DONE] 454 / 1509 [30 %] Translated phrase : format MM / DD / YYYY 
+[DONE] 455 / 1509 [30 %] Translated phrase : e.g London Greenland, Sialkot Mubarak Pura
+[DONE] 456 / 1509 [30 %] Translated phrase : Sharing and privacy options
+[DONE] 457 / 1509 [30 %] Translated phrase : Allow Comments 
+[DONE] 458 / 1509 [30 %] Translated phrase : Do Not Allow Comments
+[DONE] 459 / 1509 [30 %] Translated phrase : Comments Voting
+[DONE] 460 / 1509 [30 %] Translated phrase : Allow Voting on Comments
+[DONE] 461 / 1509 [30 %] Translated phrase : Do Not Allow on Comments
+[DONE] 462 / 1509 [30 %] Translated phrase : Yes, Allow Rating on this video
+[DONE] 463 / 1509 [30 %] Translated phrase : No, Do Not Allow Rating on this video
+[DONE] 464 / 1509 [30 %] Translated phrase : Embedding
+[DONE] 465 / 1509 [30 %] Translated phrase : Yes, People can play this video on other websites
+[DONE] 466 / 1509 [30 %] Translated phrase : No, People cannot play this video on other websites
+[DONE] 467 / 1509 [30 %] Translated phrase : Update
+[DONE] 468 / 1509 [31 %] Translated phrase : Your Account is Inactive. Please Activate it to Upload Videos, To Activate your account Please
+[DONE] 469 / 1509 [31 %] Translated phrase : Click Here
+[DONE] 470 / 1509 [31 %] Translated phrase : Continue to Upload
+[DONE] 471 / 1509 [31 %] Translated phrase : Video Upload
+[DONE] 472 / 1509 [31 %] Translated phrase : Video Step %s/2
+[DONE] 473 / 1509 [31 %] Translated phrase : (Step 2/2)
+[DONE] 474 / 1509 [31 %] Translated phrase : Select a video to upload.
+[DONE] 475 / 1509 [31 %] Translated phrase : Enter Url Of The Video.
+[DONE] 476 / 1509 [31 %] Translated phrase : Enter Embed Video Code from other websites ie Youtube or Metacafe.
+[DONE] 477 / 1509 [31 %] Translated phrase : Enter Embed Code
+[DONE] 478 / 1509 [31 %] Translated phrase : Enter Duration
+[DONE] 479 / 1509 [31 %] Translated phrase : Select Video Thumb
+[DONE] 480 / 1509 [31 %] Translated phrase : Having Trouble?
+[DONE] 481 / 1509 [31 %] Translated phrase : if you are having problems with the uploader
+[DONE] 482 / 1509 [31 %] Translated phrase : Click Here To Manage All Videos
+[DONE] 483 / 1509 [32 %] Translated phrase : Manage Videos 
+[DONE] 484 / 1509 [32 %] Translated phrase : Status
+[DONE] 485 / 1509 [32 %] Translated phrase : RawFile
+[DONE] 486 / 1509 [32 %] Translated phrase : Video Upload - Upload Complete
+[DONE] 487 / 1509 [32 %] Translated phrase : Thank you! Your upload is complete
+[DONE] 488 / 1509 [32 %] Translated phrase : This video will be available in
+[DONE] 489 / 1509 [32 %] Translated phrase : after it has finished processing.
+[DONE] 490 / 1509 [32 %] Translated phrase : Embed this video on your website.
+[DONE] 491 / 1509 [32 %] Translated phrase : Copy and paste the code below to embed this video.
+[DONE] 492 / 1509 [32 %] Translated phrase : Upload Another Video
+[DONE] 493 / 1509 [32 %] Translated phrase : Goto My Videos
+[DONE] 494 / 1509 [32 %] Translated phrase : seperate emails by commas
+[DONE] 495 / 1509 [32 %] Translated phrase : Personal Message
+[DONE] 496 / 1509 [32 %] Translated phrase : Related Tags
+[DONE] 497 / 1509 [32 %] Translated phrase : Reply To This 
+[DONE] 498 / 1509 [33 %] Translated phrase : Add Reply
+[DONE] 499 / 1509 [33 %] Translated phrase : Share Video
+[DONE] 500 / 1509 [33 %] Translated phrase : About This Video
+[DONE] 501 / 1509 [33 %] Translated phrase : Post to an Aggregating Service
+[DONE] 502 / 1509 [33 %] Translated phrase : Commentary
+[DONE] 503 / 1509 [33 %] Translated phrase : Post A Comment
+[DONE] 504 / 1509 [33 %] Translated phrase : Add Videos To Group 
+[DONE] 505 / 1509 [33 %] Translated phrase : You Don’t Have Any Video
+[DONE] 506 / 1509 [33 %] Translated phrase : Add To Group
+[DONE] 507 / 1509 [33 %] Translated phrase : Add Videos
+[DONE] 508 / 1509 [33 %] Translated phrase : Group name
+[DONE] 509 / 1509 [33 %] Translated phrase : Tags:
+[DONE] 510 / 1509 [33 %] Translated phrase : Description:
+[DONE] 511 / 1509 [33 %] Translated phrase : Enter one or more tags, separated by spaces.
+[DONE] 512 / 1509 [33 %] Translated phrase : Enter one or more tags, separated by spaces. Tags  are keywords used to describe your group so it can be easily found by  other users. For example, if you have a group for surfers, you might  tag it: surfing, beach, waves.
+[DONE] 513 / 1509 [33 %] Translated phrase : Choose a unique group name URL:
+[DONE] 514 / 1509 [34 %] Translated phrase : Enter 3-18 characters with no spaces (such as “skateboarding skates”), that will become part of your group’s web address. Please note, the group name URL you pick is permanent and can’t be changed.
+[DONE] 515 / 1509 [34 %] Translated phrase : Group Category:
+[DONE] 516 / 1509 [34 %] Translated phrase : Video Uploads:
+[DONE] 517 / 1509 [34 %] Translated phrase : Forum Posting:
+[DONE] 518 / 1509 [34 %] Translated phrase : Public, anyone can join.
+[DONE] 519 / 1509 [34 %] Translated phrase : Protected, requires founder approval to join.
+[DONE] 520 / 1509 [34 %] Translated phrase : Private, by founder invite only, only members can view group details.
+[DONE] 521 / 1509 [34 %] Translated phrase : Post videos immediately.
+[DONE] 522 / 1509 [34 %] Translated phrase : Founder approval required before video is available.
+[DONE] 523 / 1509 [34 %] Translated phrase : Only Founder can add new videos.
+[DONE] 524 / 1509 [34 %] Translated phrase : Post topics immediately.
+[DONE] 525 / 1509 [34 %] Translated phrase : Founder approval required before topic is available.
+[DONE] 526 / 1509 [34 %] Translated phrase : Only Founder can create a new topic.
+[DONE] 527 / 1509 [34 %] Translated phrase : Create Group
+[DONE] 528 / 1509 [34 %] Translated phrase : Group Thumb
+[DONE] 529 / 1509 [35 %] Translated phrase : Upload Group Thumb
+[DONE] 530 / 1509 [35 %] Translated phrase : Must Be
+[DONE] 531 / 1509 [35 %] Translated phrase : 90  x 90 Ratio Will Give Best Quality
+[DONE] 532 / 1509 [35 %] Translated phrase : Do Not Upload Vulgar or Copyrighted Material
+[DONE] 533 / 1509 [35 %] Translated phrase : Are You Sure You Want To Delete This Group
+[DONE] 534 / 1509 [35 %] Translated phrase : You Have Successfully Deleted
+[DONE] 535 / 1509 [35 %] Translated phrase : Click Here To Go To Groups
+[DONE] 536 / 1509 [35 %] Translated phrase : Edit Group
+[DONE] 537 / 1509 [35 %] Translated phrase : Manage Videos
+[DONE] 538 / 1509 [35 %] Translated phrase : Manage Members
+[DONE] 539 / 1509 [35 %] Translated phrase : Delete Group
+[DONE] 540 / 1509 [35 %] Translated phrase : Add Videos
+[DONE] 541 / 1509 [35 %] Translated phrase : Join Group
+[DONE] 542 / 1509 [35 %] Translated phrase : Leave Group
+[DONE] 543 / 1509 [35 %] Translated phrase : Invite Members
+[DONE] 544 / 1509 [36 %] Translated phrase : View Members
+[DONE] 545 / 1509 [36 %] Translated phrase : View Videos
+[DONE] 546 / 1509 [36 %] Translated phrase : Create A New Group
+[DONE] 547 / 1509 [36 %] Translated phrase : Most Members
+[DONE] 548 / 1509 [36 %] Translated phrase : Most Discussed
+[DONE] 549 / 1509 [36 %] Translated phrase : Invite Users To This Group
+[DONE] 550 / 1509 [36 %] Translated phrase : Has Invited You To Join
+[DONE] 551 / 1509 [36 %] Translated phrase : Enter Emails or Usernames (seperate by commas)
+[DONE] 552 / 1509 [36 %] Translated phrase : Group url
+[DONE] 553 / 1509 [36 %] Translated phrase : Send Invitation
+[DONE] 554 / 1509 [36 %] Translated phrase : Are You Sure You Want To Join This Group
+[DONE] 555 / 1509 [36 %] Translated phrase : You have successfully joined group
+[DONE] 556 / 1509 [36 %] Translated phrase : Click Here To Go To
+[DONE] 557 / 1509 [36 %] Translated phrase : Are You Sure You Want To Leave This Group
+[DONE] 558 / 1509 [36 %] Translated phrase : You have left the group
+[DONE] 559 / 1509 [37 %] Translated phrase : Manage Members 
+[DONE] 560 / 1509 [37 %] Translated phrase : For Approval
+[DONE] 561 / 1509 [37 %] Translated phrase : Remove Videos
+[DONE] 562 / 1509 [37 %] Translated phrase : Remove Members
+[DONE] 563 / 1509 [37 %] Translated phrase : Manage Groups
+[DONE] 564 / 1509 [37 %] Translated phrase : Manage Joined Groups
+[DONE] 565 / 1509 [37 %] Translated phrase : Remove Group
+[DONE] 566 / 1509 [37 %] Translated phrase : No Group Found
+[DONE] 567 / 1509 [37 %] Translated phrase : Joined Groups
+[DONE] 568 / 1509 [37 %] Translated phrase : Owned Groups
+[DONE] 569 / 1509 [37 %] Translated phrase : Edit This Group
+[DONE] 570 / 1509 [37 %] Translated phrase : Topics
+[DONE] 571 / 1509 [37 %] Translated phrase : Topic
+[DONE] 572 / 1509 [37 %] Translated phrase : Posts
+[DONE] 573 / 1509 [37 %] Translated phrase : Discussions
+[DONE] 574 / 1509 [38 %] Translated phrase : Author
+[DONE] 575 / 1509 [38 %] Translated phrase : Replies
+[DONE] 576 / 1509 [38 %] Translated phrase : Last Post 
+[DONE] 577 / 1509 [38 %] Translated phrase : View All Videos of This Group
+[DONE] 578 / 1509 [38 %] Translated phrase : Add New Topic
+[DONE] 579 / 1509 [38 %] Translated phrase : Attach Video 
+[DONE] 580 / 1509 [38 %] Translated phrase : Add Topic
+[DONE] 581 / 1509 [38 %] Translated phrase : Please login to post topics
+[DONE] 582 / 1509 [38 %] Translated phrase : Please Join This Group To Post Topics
+[DONE] 583 / 1509 [38 %] Translated phrase : Your Account Is Inactive And Requires Activation From The Group Owner
+[DONE] 584 / 1509 [38 %] Translated phrase : About This Group 
+[DONE] 585 / 1509 [38 %] Translated phrase : This Group Has No Vidoes
+[DONE] 586 / 1509 [38 %] Translated phrase : Posted by
+[DONE] 587 / 1509 [38 %] Translated phrase : Add New Comment
+[DONE] 588 / 1509 [38 %] Translated phrase : Add Comment
+[DONE] 589 / 1509 [39 %] Translated phrase : Please Login To Post Comments
+[DONE] 590 / 1509 [39 %] Translated phrase : Please Join This Group To Post Comments
+[DONE] 591 / 1509 [39 %] Translated phrase : User Activation
+[DONE] 592 / 1509 [39 %] Translated phrase : Enter Your Username and Activation Code that has been sent to your email.
+[DONE] 593 / 1509 [39 %] Translated phrase : Request Activation Code
+[DONE] 594 / 1509 [39 %] Translated phrase : Activation Code
+[DONE] 595 / 1509 [39 %] Translated phrase : Compose Message
+[DONE] 596 / 1509 [39 %] Translated phrase : Inbox
+[DONE] 597 / 1509 [39 %] Translated phrase : Sent
+[DONE] 598 / 1509 [39 %] Translated phrase : To: (Enter Username)
+[DONE] 599 / 1509 [39 %] Translated phrase : or select from contact list
+[DONE] 600 / 1509 [39 %] Translated phrase : Attach Video
+[DONE] 601 / 1509 [39 %] Translated phrase : Attached Video
+[DONE] 602 / 1509 [39 %] Translated phrase : Send Message
+[DONE] 603 / 1509 [39 %] Translated phrase : No Message
+[DONE] 604 / 1509 [40 %] Translated phrase : Delete This Message
+[DONE] 605 / 1509 [40 %] Translated phrase : Forgot password
+[DONE] 606 / 1509 [40 %] Translated phrase : Dont Worry, recover it now
+[DONE] 607 / 1509 [40 %] Translated phrase : Password Reset
+[DONE] 608 / 1509 [40 %] Translated phrase : if you have forgot your password, please enter you username and verification code in the box, and password reset instructions will be sent to your mail box.
+[DONE] 609 / 1509 [40 %] Translated phrase : Verification Code
+[DONE] 610 / 1509 [40 %] Translated phrase : Recover Username
+[DONE] 611 / 1509 [40 %] Translated phrase : Forgot Username?
+[DONE] 612 / 1509 [40 %] Translated phrase : Recover
+[DONE] 613 / 1509 [40 %] Translated phrase : Reset
+[DONE] 614 / 1509 [40 %] Translated phrase : Your account is inactive, please activate your account by going to <a href="./activation.php">activation page</a>
+[DONE] 615 / 1509 [40 %] Translated phrase : Dash Board
+[DONE] 616 / 1509 [40 %] Translated phrase : Manage Profile & Channel
+[DONE] 617 / 1509 [40 %] Translated phrase : Manage Friends & Contacts
+[DONE] 618 / 1509 [40 %] Translated phrase : Profile/Channel
+[DONE] 619 / 1509 [41 %] Translated phrase : Message Box
+[DONE] 620 / 1509 [41 %] Translated phrase : New Messages
+[DONE] 621 / 1509 [41 %] Translated phrase : Go to Inbox
+[DONE] 622 / 1509 [41 %] Translated phrase : Go to Sent Box
+[DONE] 623 / 1509 [41 %] Translated phrase : Compose New Messages
+[DONE] 624 / 1509 [41 %] Translated phrase : Total Subscribed Users
+[DONE] 625 / 1509 [41 %] Translated phrase : You Have
+[DONE] 626 / 1509 [41 %] Translated phrase : Favorite Videos
+[DONE] 627 / 1509 [41 %] Translated phrase : Your Videos Watched
+[DONE] 628 / 1509 [41 %] Translated phrase : Times
+[DONE] 629 / 1509 [41 %] Translated phrase : You Have Watched
+[DONE] 630 / 1509 [41 %] Translated phrase : Channel and Profile
+[DONE] 631 / 1509 [41 %] Translated phrase : Channel Views
+[DONE] 632 / 1509 [41 %] Translated phrase : Channel Comments 
+[DONE] 633 / 1509 [41 %] Translated phrase : Manage Profile / Channel
+[DONE] 634 / 1509 [42 %] Translated phrase : You Have Created
+[DONE] 635 / 1509 [42 %] Translated phrase : You Have Joined
+[DONE] 636 / 1509 [42 %] Translated phrase : Create New Group
